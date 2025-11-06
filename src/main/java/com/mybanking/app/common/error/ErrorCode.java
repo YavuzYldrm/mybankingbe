@@ -1,0 +1,12 @@
+package com.mybanking.app.common.error;
+
+public enum ErrorCode {
+    VALIDATION_ERROR,
+    ACCOUNT_NOT_FOUND,
+    ACCOUNT_FORBIDDEN,
+    INSUFFICIENT_BALANCE,
+    UNAUTHORIZED,
+    AUTH_FORBIDDEN,
+    AUTH_INVALID_CREDENTIALS,
+    SAME_ACCOUNT
+}
