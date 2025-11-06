@@ -2,9 +2,6 @@
 target/
 .mvn/timing.properties
 
-# Maven Wrapper (commit edilmeli!)
-#.mvn/wrapper/maven-wrapper.jar   # <-- SİL
-
 # Logs
 *.log
 
@@ -28,6 +25,3 @@ replay_pid*
 # Local DB files (H2, etc.)
 *.h2.db
 *.mv.db
-
-# Yardım/Döküman (commit edilmeli!)
-#HELP.md   # <-- SİL
